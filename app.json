@@ -2,7 +2,7 @@
   "expo": {
     "name": "recipe-book",
     "slug": "recipe-book",
-    "version": "1.0.0",
+    "version": "0.01.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -19,6 +19,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c0ad49b9-bc8f-4182-996a-fe7abeed4709"
+      }
+    },
+    "owner": "voiceinthedark"
   }
 }
